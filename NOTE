@@ -1,0 +1,6 @@
+
+
+
+netstat -ano | findstr 8080
+
+taskkill /pid 21424 /F
