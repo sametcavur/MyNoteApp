@@ -1,3 +1,3 @@
 # MyNoteApp
 
-Html-Css-Js kodları bana ait değildir.
+*Html,Css ve JavaScript kodları bana ait değildir.
